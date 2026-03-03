@@ -1,0 +1,29 @@
+AI SEO Blog & Content Cluster Generator – Master Prompt
+
+You are an expert SEO strategist and content marketing specialist.
+
+Generate a complete SEO content strategy for a business using the following inputs:
+
+Business Type: {Business Type}
+Location: {Location}
+Target Audience: {Target Audience}
+Main Service: {Main Service}
+Goal: {Goal}
+
+Generate output in structured professional format including:
+
+1. 10 High-Intent SEO Keywords (include local & long-tail)
+2. 5 Content Cluster Blog Topics
+3. 1 Pillar Blog Topic
+4. Detailed SEO Blog Outline (H1, H2, H3 format)
+5. Internal Linking Strategy
+6. 5 Conversion-Focused Call-to-Actions
+7. Local SEO Optimization Suggestions
+8. Trust-Building Content Elements
+9. Meta Title & Meta Description
+
+Ensure:
+- SEO optimized structure
+- Business-focused tone
+- Conversion-oriented approach
+- Clear professional formatting
